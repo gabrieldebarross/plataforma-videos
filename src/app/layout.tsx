@@ -7,7 +7,7 @@ import { Nav } from "@/components/nav/Nav";
 const nunito = Nunito({ subsets: ["latin"]})
 
 export const metadata: Metadata = {
-  title: "Codarse - Projeto Curso",
+  title: "Codarse - Inicial",
   description: "Codarse - Plataforma de Cursos Gratuitos para amantes de tecnologia.",
 };
 
